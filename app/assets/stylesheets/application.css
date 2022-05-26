@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+.navbar {
+  margin-bottom: 10px;
+}
+
+.content {
+  margin: auto;
+  width: 100%;
+  border: 2px solid rgb(97, 111, 216);
+  padding: 15px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 15px;
+}
+
+.show_reviews {
+  margin-top: 20px;
+  border-top: 2px solid rgb(97, 111, 216);
+}
+
+.review_form {
+  margin-top: 20px;
+  border: 2px solid rgb(97, 111, 216);
+  padding: 10px;
+}
+
+.container {
+ background-color: rgb(230, 230, 152);
+}
